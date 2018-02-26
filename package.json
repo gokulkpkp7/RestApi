@@ -1,0 +1,32 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "RESTful todolist api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokulkpkp7/RestApi.git"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "Nodejs",
+    "RestApi"
+  ],
+  "author": "Gokul kp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gokulkpkp7/RestApi/issues"
+  },
+  "homepage": "https://github.com/gokulkpkp7/RestApi#readme",
+  "devDependencies": {
+    "nodemon": "^1.15.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.7"
+  }
+}
